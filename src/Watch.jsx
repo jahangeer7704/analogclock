@@ -1,4 +1,4 @@
-import ClockBody from "src/watch/ClockBody";
+import ClockBody from "./ClockBody";
 import {  useState, useEffect } from "react";
 
 function Watch() {

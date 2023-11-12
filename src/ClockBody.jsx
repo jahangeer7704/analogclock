@@ -1,5 +1,5 @@
-import { ClockSmalllTeeth, ClockTeeth } from "src/watch/Teeths";
-import ClockTimer from "src/watch/ClockTimer";
+import { ClockSmalllTeeth, ClockTeeth } from "./Teeths";
+import ClockTimer from "./ClockTimer";
 
 let ClockBody = ({ hours, minutes, seconds }) => {
   return (

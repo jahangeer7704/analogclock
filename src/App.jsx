@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
-import Watch from 'src/watch/Watch'
-import Header from 'src/Header'
+import Watch from './Watch'
+import Header from './Header'
 
 function App() {
 let [item,setItem]=useState("Clock")
